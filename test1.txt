@@ -1,1 +1,3 @@
 creates test1.txt file
+laterally we made changes a file in github, we use git pull command in visual studio code. It helps to move the file from git to vs code and
+that changes that we made in github,it completely give updated version to vs code. This is achieved by pull
